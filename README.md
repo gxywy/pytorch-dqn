@@ -1,6 +1,6 @@
-# DQN-Pytorch
+# dqn-pytorch
 
-A simple implementation of dqn algorithm using pytorch.
+ This is a simple implementation of the Deep Q-learning algorithm on the Atari Pong environment. 
 
 ## Requirements
 
