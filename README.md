@@ -2,6 +2,8 @@
 
  This is a simple implementation of the Deep Q-learning algorithm on the Atari Pong environment. 
 
+⚠ my implementation can't reach the best performance
+<div align="center"><img width="400" height="400" src="./imgs/figure.png"/></div>
 ## Requirements
 
 - python >=3.4 
@@ -33,11 +35,3 @@
   9. Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation  [[arxiv]](https://arxiv.org/abs/1604.06057) [[code]](https://github.com/higgsfield/RL-Adventure/blob/master/9.hierarchical%20dqn.ipynb)
 
   10. Neural Episodic Control [[arxiv]](https://arxiv.org/pdf/1703.01988.pdf) [[code]](#)
-
-## Best RL courses
-
-- [OpenAI's spinning up](https://spinningup.openai.com/)  
-- [David Silver's course](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)  
-- [Berkeley deep RL](http://rll.berkeley.edu/deeprlcourse/)  
-- [Practical RL](https://github.com/yandexdataschool/Practical_RL)  
-- [Deep Reinforcement Learning by Hung-yi Lee](https://www.youtube.com/playlist?list=PLJV_el3uVTsODxQFgzMzPLa16h6B8kWM_)   
