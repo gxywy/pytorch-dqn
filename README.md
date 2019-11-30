@@ -4,6 +4,7 @@
 
 ⚠ my implementation can't reach the best performance
 <div align="center"><img width="400" height="400" src="./imgs/figure.png"/></div>
+
 ## Requirements
 
 - python >=3.4 
