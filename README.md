@@ -1,10 +1,9 @@
-# dqn-pytorch
+# pytorch-dqn
 
  This is a simple implementation of the Deep Q-learning algorithm on the Atari Pong environment. 
 
 ⚠ my implementation can't reach the best performance
 <div align="center"><img width="400" height="400" src="./imgs/figure.png"/></div>
-
 ## Requirements
 
 - python >=3.4 
